@@ -1,0 +1,15 @@
+-- HINTS:
+-- start by getting all PG-13 films
+
+-- find the cheapest rental bracket, the cheapest rental_rate
+
+-- find the NEXT HIGHER rental_rate above $1
+
+-- Go back and make a new column "new_rate", with a CASE WHEN statement to return the 
+-- new price for all PG-13 films.
+-- HINT: try hardcoding first
+-- HINT: Get your code to run with one of the changes to make sure you can get the 
+-- CASE WHEN statement to work, then add the other change.
+
+-- Do the previous query with softcoding (opposite of hardcoding, ie using a subquery/etc
+-- to find the right rental brackets.)
